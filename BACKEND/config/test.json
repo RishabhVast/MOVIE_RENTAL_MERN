@@ -1,0 +1,4 @@
+{
+    "DB_Connection_url": "mongodb://localhost:27017/movie_rental_test"
+  
+   }

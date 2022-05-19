@@ -1,0 +1,247 @@
+{"level":"error","message":"we got an uncaught exceptionconnect ECONNREFUSED 127.0.0.1:27017"}
+{"level":"error","message":"we got an uncaught exceptionconnect ECONNREFUSED 127.0.0.1:27017"}
+{"level":"error","message":"we got an uncaught exceptionconnect ECONNREFUSED 127.0.0.1:27017"}
+{"level":"error","message":"we got an uncaught exceptionconnect ECONNREFUSED 127.0.0.1:27017"}
+{"level":"error","message":"we got an unhandled exceptionconnect ECONNREFUSED 127.0.0.1:27017"}
+{"level":"error","message":"we got an unhandled exceptionconnect ECONNREFUSED 127.0.0.1:27017"}
+{"level":"error","message":"we got an unhandled exceptionconnect ECONNREFUSED 127.0.0.1:27017"}
+{"level":"error","message":"we got an unhandled exceptionconnect ECONNREFUSED 127.0.0.1:27017"}
+{"level":"error","message":"E11000 duplicate key error collection: movie_rental.customers index: phone_1 dup key: { phone: \"1234567890\" }"}
+{"level":"error","message":"E11000 duplicate key error collection: movie_rental.movies index: genre.name_1 dup key: { genre.name: \"crime\" }"}
+{"level":"error","message":"Unexpected token } in JSON at position 88"}
+{"level":"error","message":"Unexpected token } in JSON at position 72"}
+{"level":"error","message":"Unexpected token } in JSON at position 146"}
+{"level":"error","message":"Cannot read properties of null (reading 'movie')"}
+{"level":"error","message":"we got an unhandled exceptionDB_Connection is not defined"}
+{"level":"error","message":"we got an unhandled exceptionDB_Connection_url is not defined"}
+{"level":"error","message":"we got an unhandled exceptionDB_Connection_url is not defined"}
+{"level":"error","message":"genre is not defined"}
+{"level":"error","message":"genre is not defined"}
+{"level":"error","message":"genre is not defined"}
+{"level":"error","message":"genre is not defined"}
+{"level":"error","message":"genre is not defined"}
+{"level":"error","message":"genre is not defined"}
+{"level":"error","message":"genre is not defined"}
+{"level":"error","message":"genre is not defined"}
+{"level":"error","message":"genre is not defined"}
+{"level":"error","message":"genre is not defined"}
+{"level":"error","message":"genre is not defined"}
+{"level":"error","message":"response is not defined"}
+{"level":"error","message":"Operation `customers.findOne()` buffering timed out after 10000ms"}
+{"level":"error","message":"Operation `customers.findOne()` buffering timed out after 10000ms"}
+{"level":"error","message":"Operation `customers.insertOne()` buffering timed out after 10000ms"}
+{"level":"error","message":"Operation `customers.insertOne()` buffering timed out after 10000ms"}
+{"level":"error","message":"Operation `customers.findOneAndUpdate()` buffering timed out after 10000ms"}
+{"level":"error","message":"Operation `customers.findOne()` buffering timed out after 10000ms"}
+{"level":"error","message":"Unexpected token } in JSON at position 95"}
+{"level":"error","message":"Joi.Boolean is not a function"}
+{"level":"error","message":"Joi.Boolean is not a function"}
+{"level":"error","message":"Joi.Boolean is not a function"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'required')"}
+{"level":"error","message":"Invalid undefined schema"}
+{"level":"error","message":"Unexpected token } in JSON at position 108"}
+{"level":"error","message":"E11000 duplicate key error collection: movie_rental.movies index: genre.name_1 dup key: { genre.name: \"crime\" }"}
+{"level":"error","message":"E11000 duplicate key error collection: movie_rental.movies index: genre.name_1 dup key: { genre.name: \"crime\" }"}
+{"level":"error","message":"E11000 duplicate key error collection: movie_rental.movies index: genre.name_1 dup key: { genre.name: \"crime\" }"}
+{"level":"error","message":"E11000 duplicate key error collection: movie_rental.movies index: genre.name_1 dup key: { genre.name: \"horror\" }"}
+{"level":"error","message":"E11000 duplicate key error collection: movie_rental.movies index: genre.name_1 dup key: { genre.name: \"horror\" }"}
+{"level":"error","message":"Unexpected string in JSON at position 138"}
+{"level":"error","message":"we got an unhandled exceptionconnect ECONNREFUSED 127.0.0.1:27017"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'isAdmin')"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'isAdmin')"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'isAdmin')"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'isAdmin')"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'isAdmin')"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'isAdmin')"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'isAdmin')"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'isAdmin')"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'isAdmin')"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'isAdmin')"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'isAdmin')"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'isAdmin')"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'isAdmin')"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'isAdmin')"}
+{"level":"error","message":"E11000 duplicate key error collection: movie_rental.genres index: name_1 dup key: { name: \"thriller\" }"}
+{"level":"error","message":"E11000 duplicate key error collection: movie_rental.genres index: name_1 dup key: { name: \"thriller\" }"}
+{"level":"error","message":"E11000 duplicate key error collection: movie_rental.genres index: name_1 dup key: { name: \"romance\" }"}
+{"level":"error","message":"E11000 duplicate key error collection: movie_rental.genres index: name_1 dup key: { name: \"romance\" }"}
+{"level":"error","message":"Unexpected token \" in JSON at position 0"}
+{"level":"error","message":"Unexpected token \" in JSON at position 0"}
+{"level":"error","message":"E11000 duplicate key error collection: movie_rental.genres index: name_1 dup key: { name: \"horror\" }"}
+{"level":"error","message":"E11000 duplicate key error collection: movie_rental.genres index: name_1 dup key: { name: \"horror\" }"}
+{"level":"error","message":"E11000 duplicate key error collection: movie_rental.genres index: name_1 dup key: { name: \"horror\" }"}
+{"level":"error","message":"response is not defined"}
+{"level":"error","message":"response is not defined"}
+{"level":"error","message":"response is not defined"}
+{"level":"error","message":"response is not defined"}
+{"level":"error","message":"response is not defined"}
+{"level":"error","message":"response is not defined"}
+{"level":"error","message":"response is not defined"}
+{"level":"error","message":"response is not defined"}
+{"level":"error","message":"response is not defined"}
+{"level":"error","message":"response is not defined"}
+{"level":"error","message":"response is not defined"}
+{"level":"error","message":"response is not defined"}
+{"level":"error","message":"response is not defined"}
+{"level":"error","message":"response is not defined"}
+{"level":"error","message":"response is not defined"}
+{"level":"error","message":"response is not defined"}
+{"level":"error","message":"response is not defined"}
+{"level":"error","message":"response is not defined"}
+{"level":"error","message":"response is not defined"}
+{"level":"error","message":"response is not defined"}
+{"level":"error","message":"response is not defined"}
+{"level":"error","message":"response is not defined"}
+{"level":"error","message":"E11000 duplicate key error collection: movie_rental.genres index: name_1 dup key: { name: \"thriller\" }"}
+{"level":"error","message":"E11000 duplicate key error collection: movie_rental.genres index: name_1 dup key: { name: \"thriller\" }"}
+{"level":"error","message":"E11000 duplicate key error collection: movie_rental.genres index: name_1 dup key: { name: \"thriller\" }"}
+{"level":"error","message":"E11000 duplicate key error collection: movie_rental.genres index: name_1 dup key: { name: \"horror\" }"}
+{"level":"error","message":"E11000 duplicate key error collection: movie_rental.genres index: name_1 dup key: { name: \"horror\" }"}
+{"level":"error","message":"we got an unhandled exceptionconnect ECONNREFUSED 127.0.0.1:27017"}
+{"level":"error","message":"E11000 duplicate key error collection: movie_rental.movies index: genre.name_1 dup key: { genre.name: \"thriller\" }"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'details')"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'details')"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'details')"}
+{"level":"error","message":"E11000 duplicate key error collection: movie_rental.movies index: genre.name_1 dup key: { genre.name: \"fantasy\" }"}
+{"level":"error","message":"E11000 duplicate key error collection: movie_rental.movies index: genre.name_1 dup key: { genre.name: \"thriller\" }"}
+{"level":"error","message":"E11000 duplicate key error collection: movie_rental.movies index: genre.name_1 dup key: { genre.name: \"thriller\" }"}
+{"level":"error","message":"Cannot read properties of null (reading 'movie')"}
+{"level":"error","message":"Cannot read properties of null (reading 'movie')"}
+{"level":"error","message":"Cannot read properties of null (reading 'movie')"}
+{"level":"error","message":"Cannot read properties of null (reading 'movie')"}
+{"level":"error","message":"Cannot read properties of null (reading 'movie')"}
+{"level":"error","message":"Cannot read properties of null (reading 'movie')"}
+{"level":"error","message":"Cannot read properties of null (reading 'movie')"}
+{"level":"error","message":"Cannot read properties of null (reading 'movie')"}
+{"level":"error","message":"Cannot read properties of null (reading 'movie')"}
+{"level":"error","message":"Cannot read properties of null (reading 'movie')"}
+{"level":"error","message":"Cannot read properties of null (reading 'movie')"}
+{"level":"error","message":"Cannot read properties of null (reading 'movie')"}
+{"level":"error","message":"Cannot read properties of null (reading 'movie')"}
+{"level":"error","message":"Cannot read properties of null (reading 'movie')"}
+{"level":"error","message":"Cannot read properties of null (reading 'movie')"}
+{"level":"error","message":"Cannot read properties of null (reading 'movie')"}
+{"level":"error","message":"Cannot read properties of null (reading 'movie')"}
+{"level":"error","message":"Cannot read properties of null (reading 'movie')"}
+{"level":"error","message":"Cannot read properties of null (reading 'movie')"}
+{"level":"error","message":"Cannot read properties of null (reading 'movie')"}
+{"level":"error","message":"Cannot read properties of null (reading 'movie')"}
+{"level":"error","message":"Cannot read properties of null (reading 'movie')"}
+{"level":"error","message":"Cannot read properties of null (reading 'movie')"}
+{"level":"error","message":"Cannot read properties of null (reading 'movie')"}
+{"level":"error","message":"Cannot read properties of null (reading 'movie')"}
+{"level":"error","message":"Cannot read properties of null (reading 'movie')"}
+{"level":"error","message":"Cannot read properties of null (reading 'movie')"}
+{"level":"error","message":"Cannot read properties of null (reading 'movie')"}
+{"level":"error","message":"Cannot read properties of null (reading 'movie')"}
+{"level":"error","message":"Cannot read properties of null (reading 'movie')"}
+{"level":"error","message":"Cannot read properties of null (reading 'movie')"}
+{"level":"error","message":"Cannot read properties of null (reading 'movie')"}
+{"level":"error","message":"Cannot read properties of null (reading 'movie')"}
+{"level":"error","message":"Cannot read properties of null (reading 'movie')"}
+{"level":"error","message":"Cannot read properties of null (reading 'movie')"}
+{"level":"error","message":"Cannot read properties of null (reading 'movie')"}
+{"level":"error","message":"Cannot read properties of null (reading 'movie')"}
+{"level":"error","message":"Cannot read properties of null (reading 'movie')"}
+{"level":"error","message":"Cannot read properties of null (reading 'movie')"}
+{"level":"error","message":"Cannot read properties of null (reading 'movie')"}
+{"level":"error","message":"Cannot read properties of null (reading 'movie')"}
+{"level":"error","message":"Cannot read properties of null (reading 'movie')"}
+{"level":"error","message":"Cannot read properties of null (reading 'movie')"}
+{"level":"error","message":"Cannot read properties of null (reading 'movie')"}
+{"level":"error","message":"Cannot read properties of null (reading 'movie')"}
+{"level":"error","message":"Cannot read properties of null (reading 'movie')"}
+{"level":"error","message":"Cannot read properties of null (reading 'movie')"}
+{"level":"error","message":"Cannot read properties of null (reading 'movie')"}
+{"level":"error","message":"Cannot read properties of null (reading 'movie')"}
+{"level":"error","message":"Cannot read properties of null (reading 'movie')"}
+{"level":"error","message":"Cannot read properties of null (reading 'movie')"}
+{"level":"error","message":"Cannot read properties of null (reading 'movie')"}
+{"level":"error","message":"Cannot read properties of null (reading 'movie')"}
+{"level":"error","message":"Cannot read properties of null (reading 'movie')"}
+{"level":"error","message":"Cannot read properties of null (reading 'movie')"}
+{"level":"error","message":"Cannot read properties of null (reading 'movie')"}
+{"level":"error","message":"Cannot read properties of null (reading 'movie')"}
+{"level":"error","message":"Cannot read properties of null (reading 'movie')"}
+{"level":"error","message":"Cannot read properties of null (reading 'movie')"}
+{"level":"error","message":"E11000 duplicate key error collection: movie_rental.movies index: genre.name_1 dup key: { genre.name: \"action\" }"}
+{"level":"error","message":"E11000 duplicate key error collection: movie_rental.movies index: genre.name_1 dup key: { genre.name: \"thriller\" }"}
+{"level":"error","message":"E11000 duplicate key error collection: movie_rental.movies index: genre.name_1 dup key: { genre.name: \"action\" }"}
+{"level":"error","message":"Movies validation failed: genre.name: Path `name` is required."}
+{"level":"error","message":"Movies validation failed: genre.name: Path `name` is required."}
+{"level":"error","message":"Movies validation failed: genre.name: Path `name` is required."}
+{"level":"error","message":"E11000 duplicate key error collection: movie_rental.movies index: genre.name_1 dup key: { genre.name: \"thriller\" }"}
+{"level":"error","message":"Joi.string(...).min(...).max(...).unique is not a function"}
+{"level":"error","message":"Joi.string(...).min(...).max(...).unique is not a function"}
+{"level":"error","message":"E11000 duplicate key error collection: movie_rental.genres index: name_1 dup key: { name: \"crime\" }"}
+{"level":"error","message":"Genres validation failed: name: Cast to embedded failed for value \"'crime'\" (type string) at path \"name\""}
+{"level":"error","message":"Cannot read properties of null (reading 'movie')"}
+{"level":"error","message":"Cannot set headers after they are sent to the client"}
+{"level":"error","message":"res.status(...).send(...).res is not a function"}
+{"level":"error","message":"res.status(...).send(...).res is not a function"}
+{"level":"error","message":"res.status(...).send(...).res is not a function"}
+{"level":"error","message":"res.status(...).send(...).res is not a function"}
+{"level":"error","message":"res.status(...).send(...).res is not a function"}
+{"level":"error","message":"Invalid status code: Total number of movies are 10"}
+{"level":"error","message":"res.status(...).send(...).message is not a function"}
+{"level":"error","message":"Cannot set headers after they are sent to the client"}
+{"level":"error","message":"Cannot set headers after they are sent to the client"}
+{"level":"error","message":"Invalid status code: 10"}
+{"level":"error","message":"movies is not a function"}
+{"level":"error","message":"Invalid status code: [\n  [Object], [Object],\n  [Object], [Object],\n  [Object], [Object],\n  [Object], [Object],\n  [Object], [Object]\n]"}
+{"level":"error","message":"Skip value must be non-negative, but received: -9223372036854775808"}
+{"level":"error","message":"Skip value must be non-negative, but received: -9223372036854775808"}
+{"level":"error","message":"Skip value must be non-negative, but received: -9223372036854775808"}
+{"level":"error","message":"Skip value must be non-negative, but received: -9223372036854775808"}
+{"level":"error","message":"Skip value must be non-negative, but received: -9223372036854775808"}
+{"level":"error","message":"Skip value must be non-negative, but received: -9223372036854775808"}
+{"level":"error","message":"Skip value must be non-negative, but received: -9223372036854775808"}
+{"level":"error","message":"limit is not defined"}
+{"level":"error","message":"Skip value must be non-negative, but received: -9223372036854775808"}
+{"level":"error","message":"Skip value must be non-negative, but received: -9223372036854775808"}
+{"level":"error","message":"Skip value must be non-negative, but received: -9223372036854775808"}
+{"level":"error","message":"Skip value must be non-negative, but received: -9223372036854775808"}
+{"level":"error","message":"Skip value must be non-negative, but received: -9223372036854775808"}
+{"level":"error","message":"Unexpected string in JSON at position 37"}
+{"level":"error","message":"Unexpected string in JSON at position 37"}
+{"level":"error","message":"response is not defined"}
+{"level":"error","message":"response is not defined"}
+{"level":"error","message":"response is not defined"}
+{"level":"error","message":"response is not defined"}
+{"level":"error","message":"response is not defined"}
+{"level":"error","message":"response is not defined"}
+{"level":"error","message":"Unexpected token } in JSON at position 79"}
+{"level":"error","message":"E11000 duplicate key error collection: movie_rental.genres index: name_1 dup key: { name: \"new\" }"}
+{"level":"error","message":"Unexpected token } in JSON at position 78"}
+{"level":"error","message":"Unexpected token } in JSON at position 73"}
+{"level":"error","message":"E11000 duplicate key error collection: movie_rental.movies index: genre.name_1 dup key: { genre.name: \"fantasy\" }"}
+{"level":"error","message":"E11000 duplicate key error collection: movie_rental.genres index: name_1 dup key: { name: \"history\" }"}
+{"level":"error","message":"E11000 duplicate key error collection: movie_rental.movies index: genre.name_1 dup key: { genre.name: \"animation\" }"}
+{"level":"error","message":"E11000 duplicate key error collection: movie_rental.movies index: genre.name_1 dup key: { genre.name: \"action\" }"}
+{"level":"error","message":"totalMovies is not defined"}
+{"level":"error","message":"totalMovies is not defined"}
+{"level":"error","message":"totalMovies is not defined"}
+{"level":"error","message":"totalMovies is not defined"}
+{"level":"error","message":"totalMovies is not defined"}
+{"level":"error","message":"totalMovies is not defined"}
+{"level":"error","message":"E11000 duplicate key error collection: movie_rental.genres index: name_1 dup key: { name: \"crime\" }"}
+{"level":"error","message":"Unexpected token \" in JSON at position 0"}
+{"level":"error","message":"Unexpected token \" in JSON at position 0"}
+{"level":"error","message":"Unexpected token \" in JSON at position 0"}
+{"level":"error","message":"Unexpected token \" in JSON at position 0"}
+{"level":"error","message":"Skip value must be non-negative, but received: -9223372036854775808"}
+{"level":"error","message":"searchString is not defined"}
+{"level":"error","message":"searchString is not defined"}
+{"level":"error","message":"searchString is not defined"}
+{"level":"error","message":"searchString is not defined"}
+{"level":"error","message":"we got an unhandled exceptionconnect ECONNREFUSED 127.0.0.1:27017"}
+{"level":"error","message":"Cannot destructure property 'path' of 'sortColumn' as it is undefined."}
+{"level":"error","message":"sortColumn is not iterable"}
+{"level":"error","message":"order is not defined"}
+{"level":"error","message":"path is not defined"}
+{"level":"error","message":"Invalid sort value: { path,order: title,1 }"}
+{"level":"error","message":"Invalid sort value: { path,order: title,1 }"}
+{"level":"error","message":"Invalid sort value: { path,order: title,1 }"}
+{"level":"error","message":"Invalid sort value: { path,order: title,1 }"}
+{"level":"error","message":"Invalid sort value: { path,order: title,1 }"}
+{"level":"error","message":"Invalid sort value: { path,order: title,1 }"}
